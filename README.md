@@ -6,3 +6,5 @@ Sonar Cloud Status:
 Snyk: 
 <img width="1435" alt="Screenshot 2024-01-25 at 2 18 02 AM" src="https://github.com/soonieboi/cicd-demo/assets/65299483/d82b8ac3-c8ea-4edb-97d9-0690ab953053">
 
+Railway deployment: 
+<img width="1388" alt="Screenshot 2024-01-25 at 2 20 15 AM" src="https://github.com/soonieboi/cicd-demo/assets/65299483/1d4eb760-4ac0-4794-80ea-440b478625ca">
